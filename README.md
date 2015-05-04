@@ -1,4 +1,4 @@
-# python-plotting
+# python-data-anaylsis-tools
 A collection of methods, classes, etc. that I have written to make plotting easier.
 
 IPython notebooks in this data set can be viewed using these links:
