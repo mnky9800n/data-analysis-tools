@@ -5,6 +5,8 @@ def make_correlation_matrix(df, title):
   Creates a matplotlib plot of values (typically a correlation dataframe from Pandas).
   This plot has each value in a cell shaded on a color map for the entire
   matrix. The color map is by default reverse gray scale.
+  
+  requirements: matplotlib, pandas
   """
 
   fig, ax = plt.subplots(figsize=(12,12))
