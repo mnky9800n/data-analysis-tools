@@ -2,7 +2,7 @@ from matplotlib.pylab import pcolor
 
 def make_correlation_matrix(df, title):
   """
-  Creates a plot of values (typically a correlation dataframe from Pandas).
+  Creates a matplotlib plot of values (typically a correlation dataframe from Pandas).
   This plot has each value in a cell shaded on a color map for the entire
   matrix. The color map is by default reverse gray scale.
   """
@@ -19,4 +19,3 @@ def make_correlation_matrix(df, title):
   labels = list(df.columns) # ['Video Access Fraction', 'Video Access Density', 'Course Grade', 'FMCE Pre', 'FMCE post']
   ax.set_xticklabels(labels, rotation=90, fontsize=12)
   ax.set_yticklabels(labels, rotation=0, fontsize=12)
-  #plt.xticks(labels)
