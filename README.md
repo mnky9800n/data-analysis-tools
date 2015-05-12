@@ -5,6 +5,7 @@ A collection of methods, classes, etc. that I have written to make plotting easi
 
 1. Correlation color map plot
 2. Add jitter to data set
+3. Output RGB values to txt file for matplotlib color map (useful to use for MATLAB, etc.)
 
 ### IPython notebooks
 
