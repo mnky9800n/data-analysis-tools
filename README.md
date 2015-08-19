@@ -3,7 +3,7 @@ A collection of methods, classes, etc. that I have written to make plotting easi
 
 ### Python Scripts
 
-1. Correlation color map plot
+1. Matrix plot of correlation values colored by value
 2. Add jitter to data set
 3. Output RGB values to txt file for matplotlib color map (useful to use for MATLAB, etc.)
 
