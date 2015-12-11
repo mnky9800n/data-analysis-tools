@@ -1,3 +1,4 @@
+#coding=utf-8
 import scipy.stats as stats
 import numpy as np
 
