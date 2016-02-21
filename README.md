@@ -5,7 +5,7 @@ A collection of methods, classes, etc. that I have written to make plotting easi
 
 1. Matrix plot of correlation values colored by value
 2. Add jitter to data set
-3. Output RGB values to txt file for matplotlib color map (useful to use for MATLAB, etc.)
+3. Output RGB values to txt file for matplotlib color map (useful for MATLAB, etc.)
 4. School Colors data storage class
 
 ### IPython notebooks
@@ -17,3 +17,13 @@ IPython notebooks in this data set can be viewed using these links:
 ### Stats
 
 1. Confidence Interval for Likert scale survey questions.
+
+### Other stuff
+
+1. Performance timing in python
+2. find index of maximum value in array (although I think there is a better numpy way to do this)
+
+### SQL
+
+1. Date Range
+2. Convert epoch time to human readable datetime
