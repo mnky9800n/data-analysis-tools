@@ -1,5 +1,5 @@
 # python-data-anaylsis-tools
-A collection of methods, classes, etc. that I have written to make plotting easier.
+A collection of stuff that I have written to make science easier.
 
 ### Plotting
 
