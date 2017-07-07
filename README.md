@@ -16,6 +16,7 @@ IPython notebooks in this data set can be viewed using these links:
 2. PDFs and CDFs
 3. fluid flow animation
 4. pcolormesh demo
+5. an incredibly simple multiprocessing demonstration
 
 ### Stats
 
