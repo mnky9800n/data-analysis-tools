@@ -25,7 +25,7 @@ IPython notebooks in this data set can be viewed using these links:
 
 ### Other stuff
 
-1. Performance timing in python
+1. Performance timing in python (don't use this, %timeit exists)
 2. find index of maximum value in array (although I think there is a better numpy way to do this)
 
 ### SQL
