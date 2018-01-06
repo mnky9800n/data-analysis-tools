@@ -8,16 +8,17 @@ A collection of stuff that I have written to make science easier.
 3. Output RGB values to txt file for matplotlib color map (useful for MATLAB, etc.)
 4. School Colors data storage class
 
-### IPython notebooks
+### Jupyter notebooks
 
-IPython notebooks in this data set can be viewed using these links:
+Jupyter (python, R) notebooks in this data set can be viewed using these links:
 
-1. Plotting two data sets in the same scatter matrix
-2. PDFs and CDFs
-3. fluid flow animation
-4. pcolormesh demo
-5. an incredibly simple multiprocessing demonstration
-6. Velociraptors
+1. Plotting two data sets in the same scatter matrix (python)
+2. PDFs and CDFs (python)
+3. fluid flow animation (python)
+4. pcolormesh demo (python)
+5. an incredibly simple multiprocessing demonstration (python)
+6. Velociraptors (python)
+7. Alluvial diagram generator (R)
 
 ### Stats
 
