@@ -1,4 +1,4 @@
-# python-data-anaylsis-tools
+# data analysis tools
 A collection of stuff that I have written to make science easier.
 
 ### Plotting
