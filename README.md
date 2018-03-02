@@ -19,7 +19,7 @@ Jupyter (python, R) notebooks in this data set can be viewed using these links:
 5. an incredibly simple multiprocessing demonstration (python)
 6. Velociraptors (python)
 7. Alluvial diagram generator (R)
-8. Importing data from a Google Sheet
+8. Importing data from a Google Sheet (python)
 
 ### Stats
 
