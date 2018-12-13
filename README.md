@@ -21,7 +21,7 @@ Jupyter (python, R) notebooks in this data set can be viewed using these links:
 7. Alluvial diagram generator (R)
 8. Importing data from a Google Sheet (python)
 9. Group by, Pivot table, apply (python)
-10. Discrete colorbar demo for pcolormesh (python)
+10. Discrete colorbar demo for pcolormesh and scatterplots (python)
 
 ### Stats
 
