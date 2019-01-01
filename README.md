@@ -22,6 +22,7 @@ Jupyter (python, R) notebooks in this data set can be viewed using these links:
 8. Importing data from a Google Sheet (python)
 9. Group by, Pivot table, apply (python)
 10. Discrete colorbar demo for pcolormesh and scatterplots (python)
+11. Rolling critical attacks in dungeons and dragons 3.5e
 
 ### Stats
 
