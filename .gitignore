@@ -1,5 +1,5 @@
 
 *.png
 ### JupyterNotebook ###
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
+*.ipynb_checkpoints
+**/.ipynb_checkpoints/**
